@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+L0WfadEleKbobP0Fh3A+YO7eSLDO8XuYjWtAf5XoHM5XEMPWNA5WhnFycnniqXw5LcQh44mUhEwtMxFef0KCg==",
+  "success": true,
+  "projectFilePath": "/Users/t2023-m0072/Projects/HW/HW/HW.csproj",
+  "expectedPackageFiles": [
+    "/Users/t2023-m0072/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/t2023-m0072/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/t2023-m0072/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
